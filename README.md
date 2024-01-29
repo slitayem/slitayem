@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Senior Machine Learning Engineer / Data Scientist</h3>
+  <h3>Head of Data Science/h3>
   <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/saloualitayem/">LinkedIn</a> |
     <a target="_blank" href="https://stackoverflow.com/users/1287983/saloua">Stack Overflow</a> |
